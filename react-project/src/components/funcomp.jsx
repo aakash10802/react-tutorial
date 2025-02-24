@@ -25,7 +25,7 @@ function New1(){
 
 
         <button onClick={handleClick1}>Click Me</button> &nbsp;
-        <button onClick={() => handleClick2('Arjun')}>Click here</button> 
+        <button onClick={() => handleClick2('Arun')}>Click here</button> 
        
 
         </>
